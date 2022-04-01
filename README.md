@@ -6,3 +6,6 @@ All I need to start coding
 
 ## vimrc 🤓
 because I fell down a rabbit hole
+
+## colorschemes
+currently using [snazzy](https://github.com/sindresorhus/iterm2-snazzy)
